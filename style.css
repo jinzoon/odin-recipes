@@ -2,8 +2,29 @@ h1 {
     text-align: center;
     background-color: bisque;
     color: #8a2be2;
-    font-size: xx-large;
-    font-family: "Brush Script MT", "Lucida Handwriting", cursive;  
+    font: size 55px; ; 
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+
+}
+
+h2 {
+    font-size: 43px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2.description { 
+    background-color: rgb(124, 86, 40);
+    color: orange;
+}
+
+h2.steps { 
+    background-color: maroon;
+    color: yellowgreen;
+    }
+
+h2.ingredients { 
+    background-color: aquamarine;
+    color: plum;
 }
 
 
