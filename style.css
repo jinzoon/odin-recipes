@@ -5,3 +5,10 @@ h1 {
     font-size: xx-large;
     font-family: "Brush Script MT", "Lucida Handwriting", cursive;  
 }
+
+
+.recipe-image {
+    height: auto;
+    width: 324px;
+    justify-content: center;
+}
