@@ -36,6 +36,32 @@ background-color: cornflowerblue;
 color: firebrick;
 }
 
+p.description {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    font-weight: 200;
+    color: rgb(213, 255, 24);
+    background-color: grey;
+    text-align: justify;
+}
+
+ol {
+    font-size: 18px;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aquamarine;
+    color: #73af1e;
+}
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1;
+    color: red;
+    background-color: yellow;
+    text-align: right;
+
+}
+
 
 .recipe-image {
     height: auto;
